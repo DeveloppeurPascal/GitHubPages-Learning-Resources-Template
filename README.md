@@ -48,8 +48,16 @@ In the two cases you need a flag. Check if it's already available in "/images" f
 
 This repository was done after creating three "learning resources" websites for [Delphi](https://developpeurpascal.github.io/Delphi-Learning-Resources/), [Lazarus](https://developpeurpascal.github.io/Lazarus-Learning-Resources/) and [Pascal language](https://developpeurpascal.github.io/Pascal-Learning-Resources/) because I think it's simple to personalize and easy to use.
 
-## Happy ? Tell it !
+## Translations
+
+The ordinal standard texts where translated from FR or EN to CN, DE, DK, HU, JP, PL, RU, SE, SP and TR with [Deepl](https://deepl.com) translation service.
+
+## You are happy ? Tell it !
 
 If you like this project and if you use it, tell it.
 
 And if you can please thinks about sponsoring my activities on the web (see links on GitHub) and perhaps subscribing to my [Zone-Abo member ship program](https://zone-abo.fr).
+
+## You are not happy ? Tell it too !
+
+You can contact me from one of my web site, [open a new discussion](https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template/discussions) or [create an issue](https://github.com/DeveloppeurPascal/GitHubPages-Learning-Resources-Template/issues) if you want to talk or report anything about this project.
