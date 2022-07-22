@@ -23,7 +23,9 @@ Copy this repository template as a new repository directly from GitHub.
 
 Remove "/.github" folder or change the sponsor links in it (don't lets mine on your repos !).
 
-Change the copyright in "/includes/footer.html" file if you want. By default it displays datas from your GitHub repository datas.
+Edit or remove CONTRIBUTING.md (update the "family" property values depanding on your needs) and CODE_OF_CONDUCT.md files.
+
+Change the copyright in "/includes/footer.html" file if needed. By default it displays datas from your GitHub repository datas.
 
 Edit the "/index.html" file to change it's "title" property.
 
