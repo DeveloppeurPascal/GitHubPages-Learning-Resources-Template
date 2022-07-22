@@ -19,13 +19,15 @@ Creating the website from MD files is a sort of best of 2 worlds : MD files main
 
 ## How to use it ?
 
-Copy this repository template as a new GitHub repository.
+Copy this repository template as a new repository directly from GitHub.
 
-Change the copyright in "/includes/footer.html" file.
+Remove "/.github" folder or change the sponsor links in it (don't lets mine on your repos !).
 
-Remove .github folder or change the sponsor links in it (don't lets mine on your repos !).
+Change the copyright in "/includes/footer.html" file if you want. By default it displays datas from your GitHub repository datas.
 
-Copy templates files from "/_template_files_for_data_collections" folder to :
+Edit the "/index.html" file to change it's "title" property.
+
+Copy templates files (and rename copies) from "/_template_files_for_data_collections" folder to :
 * "/_data_languages" for languages pages (one file per language)
 * "/_data_topics" for topics pages (one file per language/topic with the same "family" property)
 * "/_data_links" for links (as many files you need per language/topic)
